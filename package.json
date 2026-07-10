@@ -1,0 +1,30 @@
+{
+  "name": "startup-validator-ai",
+  "version": "1.0.0",
+  "description": "A modern web application for analyzing startup ideas using AI.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "nextjs",
+    "startup",
+    "ai",
+    "google-gemini"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "typescript": "latest"
+  }
+}
